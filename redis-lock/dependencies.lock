@@ -1,7 +1,7 @@
 {
     "annotationProcessor": {
         "org.springframework.boot:spring-boot-configuration-processor": {
-            "locked": "2.7.2"
+            "locked": "2.7.11"
         }
     },
     "compileClasspath": {
@@ -212,7 +212,7 @@
             ]
         },
         "org.redisson:redisson": {
-            "locked": "3.13.3"
+            "locked": "3.22.0"
         },
         "org.slf4j:jul-to-slf4j": {
             "locked": "1.7.36",
@@ -229,23 +229,23 @@
             ]
         },
         "org.springframework.boot:spring-boot": {
-            "locked": "2.7.2",
+            "locked": "2.7.11",
             "transitive": [
                 "org.springframework.boot:spring-boot-autoconfigure",
                 "org.springframework.boot:spring-boot-starter"
             ]
         },
         "org.springframework.boot:spring-boot-autoconfigure": {
-            "locked": "2.7.2",
+            "locked": "2.7.11",
             "transitive": [
                 "org.springframework.boot:spring-boot-starter"
             ]
         },
         "org.springframework.boot:spring-boot-starter": {
-            "locked": "2.7.2"
+            "locked": "2.7.11"
         },
         "org.springframework.boot:spring-boot-starter-logging": {
-            "locked": "2.7.2",
+            "locked": "2.7.11",
             "transitive": [
                 "org.springframework.boot:spring-boot-starter"
             ]
@@ -647,7 +647,7 @@
             ]
         },
         "org.redisson:redisson": {
-            "locked": "3.13.3"
+            "locked": "3.22.0"
         },
         "org.slf4j:slf4j-api": {
             "locked": "1.7.36",
@@ -1046,7 +1046,7 @@
             ]
         },
         "org.redisson:redisson": {
-            "locked": "3.13.3"
+            "locked": "3.22.0"
         },
         "org.skyscreamer:jsonassert": {
             "locked": "1.5.1",
@@ -1071,7 +1071,7 @@
             ]
         },
         "org.springframework.boot:spring-boot": {
-            "locked": "2.7.2",
+            "locked": "2.7.11",
             "transitive": [
                 "org.springframework.boot:spring-boot-autoconfigure",
                 "org.springframework.boot:spring-boot-starter",
@@ -1080,39 +1080,39 @@
             ]
         },
         "org.springframework.boot:spring-boot-autoconfigure": {
-            "locked": "2.7.2",
+            "locked": "2.7.11",
             "transitive": [
                 "org.springframework.boot:spring-boot-starter",
                 "org.springframework.boot:spring-boot-test-autoconfigure"
             ]
         },
         "org.springframework.boot:spring-boot-starter": {
-            "locked": "2.7.2",
+            "locked": "2.7.11",
             "transitive": [
                 "org.springframework.boot:spring-boot-starter-test"
             ]
         },
         "org.springframework.boot:spring-boot-starter-log4j2": {
-            "locked": "2.7.2"
+            "locked": "2.7.11"
         },
         "org.springframework.boot:spring-boot-starter-logging": {
-            "locked": "2.7.2",
+            "locked": "2.7.11",
             "transitive": [
                 "org.springframework.boot:spring-boot-starter"
             ]
         },
         "org.springframework.boot:spring-boot-starter-test": {
-            "locked": "2.7.2"
+            "locked": "2.7.11"
         },
         "org.springframework.boot:spring-boot-test": {
-            "locked": "2.7.2",
+            "locked": "2.7.11",
             "transitive": [
                 "org.springframework.boot:spring-boot-starter-test",
                 "org.springframework.boot:spring-boot-test-autoconfigure"
             ]
         },
         "org.springframework.boot:spring-boot-test-autoconfigure": {
-            "locked": "2.7.2",
+            "locked": "2.7.11",
             "transitive": [
                 "org.springframework.boot:spring-boot-starter-test"
             ]
@@ -1669,7 +1669,7 @@
             ]
         },
         "org.redisson:redisson": {
-            "locked": "3.13.3"
+            "locked": "3.22.0"
         },
         "org.skyscreamer:jsonassert": {
             "locked": "1.5.1",
@@ -1695,7 +1695,7 @@
             ]
         },
         "org.springframework.boot:spring-boot": {
-            "locked": "2.7.2",
+            "locked": "2.7.11",
             "transitive": [
                 "org.springframework.boot:spring-boot-autoconfigure",
                 "org.springframework.boot:spring-boot-starter",
@@ -1704,39 +1704,39 @@
             ]
         },
         "org.springframework.boot:spring-boot-autoconfigure": {
-            "locked": "2.7.2",
+            "locked": "2.7.11",
             "transitive": [
                 "org.springframework.boot:spring-boot-starter",
                 "org.springframework.boot:spring-boot-test-autoconfigure"
             ]
         },
         "org.springframework.boot:spring-boot-starter": {
-            "locked": "2.7.2",
+            "locked": "2.7.11",
             "transitive": [
                 "org.springframework.boot:spring-boot-starter-test"
             ]
         },
         "org.springframework.boot:spring-boot-starter-log4j2": {
-            "locked": "2.7.2"
+            "locked": "2.7.11"
         },
         "org.springframework.boot:spring-boot-starter-logging": {
-            "locked": "2.7.2",
+            "locked": "2.7.11",
             "transitive": [
                 "org.springframework.boot:spring-boot-starter"
             ]
         },
         "org.springframework.boot:spring-boot-starter-test": {
-            "locked": "2.7.2"
+            "locked": "2.7.11"
         },
         "org.springframework.boot:spring-boot-test": {
-            "locked": "2.7.2",
+            "locked": "2.7.11",
             "transitive": [
                 "org.springframework.boot:spring-boot-starter-test",
                 "org.springframework.boot:spring-boot-test-autoconfigure"
             ]
         },
         "org.springframework.boot:spring-boot-test-autoconfigure": {
-            "locked": "2.7.2",
+            "locked": "2.7.11",
             "transitive": [
                 "org.springframework.boot:spring-boot-starter-test"
             ]

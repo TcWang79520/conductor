@@ -19,7 +19,7 @@ RUN ./gradlew build -x test --stacktrace
 # ===========================================================================================================
 # 1. Bin stage
 # ===========================================================================================================
-FROM eclipse-temurin:11-jre-focal 
+FROM eclipse-temurin:11-jre-focal
 
 LABEL maintainer="Netflix OSS <conductor@netflix.com>"
 
